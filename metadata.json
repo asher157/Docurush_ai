@@ -1,0 +1,6 @@
+{
+  "name": "DocuRush AI",
+  "description": "A powerful AI production studio designed to fully automate faceless documentary video generation with multi-theme timelines, Pexels, ElevenLabs, and Shotstack integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
